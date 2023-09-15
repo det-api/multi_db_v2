@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "admin",
+        "email" : "admin@gmail.com",
+        "phone" : "09100100100",
+        "password" : "asdffdsa"
+    },
+    {
+        "name" : "PPRD",
+        "email" : "pprd@gmail.com",
+        "phone" : "09200200200",
+        "password" : "asdffdsa"
+    }
+]
